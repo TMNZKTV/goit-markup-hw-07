@@ -1,7 +1,8 @@
 .contacts {
     display: flex;
-    font-weight: 500;
-    font-style: normal;
+    font-family: $main-font;
+    font-weight: $medium;
+    font-style: $normal-style;
     line-height: 1.4;
     list-style-type: none;
     margin-left: auto;

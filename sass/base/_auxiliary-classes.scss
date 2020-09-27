@@ -1,10 +1,10 @@
 
 body {
   background-color: $primary-white-color;
-  font-family: Roboto, sans-serif;
-  font-size: 14px;
-  font-style: normal;
-  font-weight: 400;
+  font-family: $main-font;
+  font-size: $main-size;
+  font-style: $normal-style;
+  font-weight: $regular;
   color: $primary-text-color;
 }
 .img {
